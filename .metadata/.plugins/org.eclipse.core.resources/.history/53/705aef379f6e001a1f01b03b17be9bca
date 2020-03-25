@@ -1,0 +1,15 @@
+BrowserType=FF
+IE_Driver=D:\\Quickregressiontest\\webtest\\src\\main\\resources\\Drivers\\IEDriverServer_x64_3.3.0\\IEDriverServer.exe
+Chrome_Driver=F:/Scripts/TP/Drivers/chromedriver_win32_2.3/chromedriver.exe
+UtilityFilePath=D:\\Quickregressiontest\\webtest\\src\\main\\resources\\Utility Sheet\Selenium_Utility.xls
+AutoitSaveDlgexe=F:\\Scripts\\ATFW\\AutoItScript\\FileSave.exe
+AutoitFileUpldexe=D:/AutoItScript/FileUpFF.exe
+email_username=abrahim.patel
+email_password=786@rahim
+mail_From=abrahim.patel@gmail.com
+mail_To=abrahim.patel@gmail.com
+mail_BCC=
+mail_CC=
+mail_Subject=Automation regression test report
+mail_Text=Please find regression test report. Kindly revert if you need any more clarity.
+
